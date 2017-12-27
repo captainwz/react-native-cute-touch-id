@@ -2,6 +2,7 @@
 [![react-native version](https://img.shields.io/badge/react--native-0.43-blue.svg?style=flat-square)](http://facebook.github.io/react-native/releases/0.43)
 [![npm version](https://img.shields.io/npm/v/react-native-cute-touch-id.svg?style=flat-square)](https://www.npmjs.com/package/react-native-cute-touch-id)
 [![npm downloads](https://img.shields.io/npm/dm/react-native-cute-touch-id.svg?style=flat-square)](https://www.npmjs.com/package/react-native-cute-touch-id)
+
 A small react-native plugin which offers app touch ID ability.
 
 **Cute TouchID** is able to **detect changes of touch ID's additions or deletions** which is important to apps in high security level.
