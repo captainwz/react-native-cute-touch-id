@@ -4,6 +4,8 @@ A small react-native plugin which offers app touch ID ability.
 
 **Cute TouchID** is able to **detect changes of touch ID's additions or deletions** which is important to apps in high security level.
 
+![example](https://raw.githubusercontent.com/captainwz/react-native-cute-touch-id/master/touchid.gif)
+
 ### Notice
 
 Only support IOS by now.
