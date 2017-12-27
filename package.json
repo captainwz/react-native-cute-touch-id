@@ -1,0 +1,15 @@
+{
+  "name": "react-native-cute-touch-id",
+  "version": "0.5.0",
+  "description": "A ReactNative Module which offers touch ID ability for IOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "touch-id"
+  ],
+  "author": "Zhe Wang",
+  "license": "MIT"
+}
