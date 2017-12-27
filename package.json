@@ -10,6 +10,10 @@
     "react-native",
     "touch-id"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/captainwz/react-native-cute-touch-id.git"
+  },
   "author": "Zhe Wang",
   "license": "MIT"
 }
